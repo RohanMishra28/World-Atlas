@@ -35,9 +35,7 @@ export const Footers = () => {
             <div className="copyright-text">
               <p>
                 Copyright &copy; 2024, All Right Reserved
-                <NavLink to="/" >
-                  Rohan Mishra
-                </NavLink>
+                <NavLink to="/">Rohan Mishra</NavLink>
               </p>
             </div>
 
@@ -57,7 +55,7 @@ export const Footers = () => {
                 </li>
                 <li>
                   <NavLink
-                    to="/"
+                    to="https://github.com/RohanMishra28/World-Atlas"
                     target="_blank"
                   >
                     Source Code
